@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "description": "Custom textures for my songs of souls datapack",
+        "pack_format": 46,
+        "supported_formats": {
+            "max_inclusive": 46,
+            "min_inclusive": 42
+        }
+    }
+}
