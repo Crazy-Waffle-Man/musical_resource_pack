@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/infested/silverfish"
+        "layer0": "item/infested/silverfish_2d"
     }
 }
